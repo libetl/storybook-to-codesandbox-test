@@ -1,6 +1,6 @@
 {
   "name": "run",
-  "main": "/storysource/bootstrapper.js",
+  "main": "src/storysource/bootstrapper.js",
   "dependencies": {
     "react": "latest",
     "@storybook/react": "latest",
