@@ -1,0 +1,11 @@
+{
+  "name": "run",
+  "main": "/storysource/bootstrapper.js",
+  "dependencies": {
+    "react": "latest",
+    "@storybook/react": "latest",
+    "@storybook/addons": "latest",
+    "@storybook/core-events": "latest",
+    "@storybook/router": "latest"
+  }
+}
